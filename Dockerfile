@@ -1,5 +1,5 @@
 # Use uma imagem base específica para o Go
-FROM golang:1.23.5
+FROM golang:1.23
 
 # Metadata sobre o autor
 LABEL authors="wellik"
